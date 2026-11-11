@@ -1,0 +1,8 @@
+{
+  "name": "Age Calculator",
+  "description": "Discover your exact age in seconds with years, months, days, minutes, next birthday countdown, and life milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
